@@ -12,11 +12,12 @@
 
 ###	路径如图所示
 
-![](C:\Users\shiyi\Desktop\github的snake玩法\snake.yml文件位置.png)
+  <img width="825" height="308" alt="snake yml文件位置" src="https://github.com/user-attachments/assets/01a96123-2431-4afa-94ab-7f3baf3eff83" />
+
 你的仓库名/.github/workflows/snake.yml
 
 ##	3.粘贴代码
-
+###  将下列代码粘贴到你的 snake.yml 里去
 
 
 ```
@@ -123,17 +124,20 @@ jobs:
 
 ###	一般会因为权限不足导致运行失败
 
-​	![](C:\Users\shiyi\Desktop\github的snake玩法\权限不足处理方案.png)
+<img width="1603" height="666" alt="权限不足处理方案" src="https://github.com/user-attachments/assets/8fe83bc4-4cf2-44fd-b497-7048d19f4ca3" />
+
 
 我们可以  在仓库的上面找到 settings  点开之后找到左侧的Actions 下面的 General，然后往下拉 找到  Workflow permissions 将 读写权限  勾选 即可
 （别忘了点击保存 save）
 
-![](C:\Users\shiyi\Desktop\github的snake玩法\仓库Actions权限设置.png)
+<img width="1467" height="887" alt="仓库Actions权限设置" src="https://github.com/user-attachments/assets/2a228f9b-8804-45b1-bd9a-cdaffae0229a" />
+
 
 ##	5.二次运行
 
 ###	点击workflows，找到选项 右边有 Run workflow
 
+<img width="1838" height="641" alt="二次运行" src="https://github.com/user-attachments/assets/4e70b938-574e-4e21-b1cb-6bd4f3a22cee" />
 
 
 运行完成  进入 README.md  进行编辑 将下面代码粘贴进去保存即可
