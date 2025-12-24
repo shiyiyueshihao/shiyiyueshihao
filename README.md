@@ -2,7 +2,8 @@
 
 ## 🐍 My GitHub Snake
 ![snake gif](https://raw.githubusercontent.com/shiyiyueshihao/shiyiyueshihao/output/github-snake.svg)
-[gihub贪吃蛇.md](https://github.com/user-attachments/files/24326120/gihub.md)
+
+
 #	gihub贪吃蛇
 
 ##	1.创建一个同名的仓库
