@@ -4,7 +4,9 @@
 ![snake gif](https://raw.githubusercontent.com/shiyiyueshihao/shiyiyueshihao/output/github-snake.svg)
 
 
-#	gihub贪吃蛇
+#	gihub贪吃蛇创建流程
+
+##   跟着我的流程 你一定能成功！
 
 ##	1.创建一个同名的仓库
 
